@@ -1,0 +1,4 @@
+First_Name Last_Name Position(1-5) 2-Point-Shooting 3-Point-Shooting Athleticism Rebound Defense Playmaking star_player(y/n) role_player(y/n)
+
+For example: 
+Kyrie Irving 1 88 80 85 39 77 86 Y N

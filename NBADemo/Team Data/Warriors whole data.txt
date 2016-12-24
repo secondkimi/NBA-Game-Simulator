@@ -1,0 +1,6 @@
+Warriors outside outside
+Stephen Curry 1 93 97 76 50 86 94 Y N
+Klay Thompson 2 88 92 74 66 90 88 Y N 
+Harrison Barnes 3 78 84 80 74 77 73 N Y
+Andre Iguodala 4 76 79 85 77 83 70 N Y
+Draymond Green 5 80 78 87 87 91 84 N N

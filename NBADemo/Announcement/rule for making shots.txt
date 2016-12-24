@@ -1,0 +1,5 @@
+1, if a player's ability to shoot 2/3 is smaller than 50, he won't do it.
+2, if both ability are above 50, we have p = random / (two + 0.5*three)
+if a player's three ability is better than 2.
+3, if both ability are above 50 and we have p = random/(two+0.35*three)
+if a player's three abilty is worse than 2.

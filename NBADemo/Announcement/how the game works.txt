@@ -1,0 +1,30 @@
+1, pause(time) depends on a random number between 10 - 24 sec.
+2, every time we start a new run first new check which team has the ball
+3, the end of a run: 
+A, splash, CHANGE BALL POSITION
+
+B, hit the rim and DEF Rebound, CHANGE BALL POSITION
+C: hit the rim and OFF Rebound, DO NOT CHANGE BALL POSITION
+D: turnOver, change BALL POSITION
+
+before pause(), print the result of this play
+
+public void run() {
+
+pause(time);
+}
+
+
+The logic of a play call:
+based on playmaking and star player, decide which player get the ball
+The player will:
+A, drag a foul and go for free throw (probility depends on agressiveness(to set up))
+if so, apply "free throw ability(to set up)" to make points
+REBOUND REQUIRED if he missed the second one.
+print(player A make 1/2 free throw, who get the rebound(if miss the second) );
+
+B, turnOver
+print( someone missed the ball, recovered by XXX);
+
+C: two point / three point throw
+print(player A made/miss a two/three point shot and player B recovered the rebound ) 

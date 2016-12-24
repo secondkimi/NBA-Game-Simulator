@@ -1,0 +1,41 @@
+PlayMaking && Core Player Role Player
+the higher this value is, the higher possibility the player will make that
+offense. 
+Therefore, for every single match, the percentage that one player make the 
+throw to the whole attempts =
+Playmaking of player1 / sum of playMaking of all players
+
+If The player is a Core Player, he will have 5% more chance of playmaking
+in the second half and the role player will have 5% fewer chance to make the
+play.
+Note: One team can have at most 2 CP and 2 RP
+
+Caveliers 
+
+Warriors (100%)
+SC 23 + 5
+KT 21.5 + 5
+HB 17.8 - 5
+AI 17.1 - 5
+DG 20.5
+
+Spurs: (100%)
+TP 20.9
+DG 16.7
+KL 20.6
+TD 20.9
+LA 20.6 
+
+Thunders (100%)
+RW 24.7 + 5
+DW 19.9 - 5
+KD 23.3 + 5
+SI 18.8
+EC 13.1 - 5
+
+Cavaliers(100%)
+KI 21.6 + 5 
+JS 19.0 - 5 
+LJ 23.8 + 5
+KL 19.8 
+TT 15.7 - 5

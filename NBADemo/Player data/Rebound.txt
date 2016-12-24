@@ -1,0 +1,10 @@
+Rebound:
+The rebound rate of a team decides how many offense plays the team would have 
+in the whole game.
+The team's reound rate =
+Center * 0.4 + PF * 0.35 + SF*0.2 + Guard1*0.1 + Guard2 * 0.05
+
+Spurs = 86.25
+Cavaliers =  88.95
+Warriors = 86.25
+Thunders = 86.8 

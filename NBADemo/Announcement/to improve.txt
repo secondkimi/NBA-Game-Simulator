@@ -1,0 +1,51 @@
+ticket 0:
+NBATimer:
+timeEclipse()
+a random time from 8 to 24, try to make the random time more properly so that
+most t are in the range of 15 - 19
+status: TODO
+
+ticket 1:
+add JPAnel and set the color of the panel as semi transparent if the game is over 
+http://stackoverflow.com/questions/24559167/how-to-make-a-jpanel-semi-transparent
+status: TODO
+
+ticket 2:
+put all 30 teams into the canvas. To do so you should:
+1, establish team database for all 30 teams
+2, create a 2 dimension array to store all 30 teams
+// might take a long time tho, better to use git at this point
+status: TODO
+
+ticket 3:
+Right now the game assumes that all rebounds are def rebounds and thus the game would switch ball positions 
+for whatever scenario. How to add rebound index to the game equation
+status: TODO
+
+ticket 4:
+add some other factors to the game like turnover, snatch and block
+status: TODO
+
+ticket 5:
+when the user paused the game they can make substitution. This would be hard since we need to consider a better data structure 
+to put all bench players into the game follow
+status: TODO
+
+ticket 6:
+add music to the game when necessary.
+status: TODO
+
+ticket 7: put team overall/off/def at the main page
+status: solved 
+
+//advanced development
+//to do when all the above issues are solved
+1, create a database to write the game result like score, player data
+2, enable user to select single game or the whole season. If the user goes for the whole season we will play all 82 regular season games
+by default.
+3, put your game into web or app so that people actually play.
+ 
+
+ 
+
+

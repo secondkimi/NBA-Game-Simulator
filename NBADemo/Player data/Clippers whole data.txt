@@ -1,0 +1,7 @@
+Clippers outside inside
+Chris Paul 1 90 86 80 57 88 91 Y N
+Jamal Crawford 2 81 79 84 65 76 88 N N
+JJ Redick 2 86 91 77 68 81 78 N N
+Jeff Green 3 83 73 85 75 77 72 N Y
+Blake Griffin 4 86 74 90 85 82 87 Y N
+DeAndre Jordan 5 92 25 93 94 95 63 N Y

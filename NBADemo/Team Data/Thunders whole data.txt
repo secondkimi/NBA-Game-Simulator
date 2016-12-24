@@ -1,0 +1,6 @@
+Thunder outside balance
+Russell WestBrook 1 89 83 95 74 87 94 Y N
+Dion Waiters 2 78 73 70 49 68 76 N Y
+Kevin Durant 3 93 88 87 72 76 92 Y N
+Serge Ibaka 4 78 79 84 82 85 72 N N
+Enes Kanter 5 82 68 70 85 73 50 N Y

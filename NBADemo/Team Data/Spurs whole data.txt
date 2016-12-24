@@ -1,0 +1,6 @@
+Spurs balance inside
+Tony Parker 1 84 81 87 39 82 85 N N
+Danny Green 2 79 86 77 63 81 68 N N
+Kawhi Leonard 3 84 90 83 78 93 84 N N
+Tim Duncan 4 92 40 66 88 91 84 N N
+LaMarcus Aldridge 5 91 70 85 83 77 84 N N

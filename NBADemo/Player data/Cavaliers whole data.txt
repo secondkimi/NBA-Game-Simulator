@@ -1,0 +1,7 @@
+Cavaliers balance balance
+Kyrie Irving 1 92 85 85 59 77 88 Y N
+Matthew Dellavedova 1 81 83 80 68 92 76 N Y
+JR Smith 2 82 86 81 59 76 78 N Y
+Lebron James 3 94 77 97 86 93 95 Y N
+Kevin Love 4 87 81 74 86 72 83 N N
+Tristan Thompson 5 88 30 86 87 86 68 N Y
